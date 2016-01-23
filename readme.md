@@ -19,8 +19,8 @@ pasos
 4) codificación, el código fuente lo pueden obervar en la carpeta www/index.html donde se muestra el mapa con lo solicitado en el test
 
 5) construimos y ejecutamos la aplicación
-    `phonegap build android
-    phonegap run android`
+    `phonegap build android`
+    `phonegap run android`
     
         
         
